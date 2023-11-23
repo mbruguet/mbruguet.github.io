@@ -15,6 +15,7 @@ Education
 * Ph.D in Economics, Dauphine University, 2023-2026 
 * M.S. in Econometrics, Big Data and Statistics, Aix-Marseille School of Economics, 2020-2022
 * B.S. in Economics and Finance, Rennes I University, 2017-2020
+* Erasmus Semester, Norwegian University of Science and Technology, 2021
 
 Work experience
 ======
