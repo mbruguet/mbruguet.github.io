@@ -13,5 +13,5 @@ redirect_from:
 **Affiliations :** 
 * [Ministry of Ecological Transition - Studies and Statistics Department](https://www.statistiques.developpement-durable.gouv.fr/english-contents)
 * [Dauphine University - LEDa](https://leda.dauphine.fr/)
-* [Climate Economics Chair](https://www.chaireeconomieduclimat.org/en/)
+* [Climate Economics Chair](https://www.chaireeconomieduclimat.org/en/thesis/measuring-and-evaluating-sufficiency-and-efficiency-in-french-residential-energy-consumption-marie-bruguet/)
   
