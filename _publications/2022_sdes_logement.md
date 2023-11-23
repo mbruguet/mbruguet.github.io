@@ -6,5 +6,4 @@ venue: 'Ministry of Ecological Transition - Studies and Statistics Department We
 paperurl: '(https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050)'
 ---
 
-[Publication is available here, French only]([http://academicpages.github.io/files/paper1.pdf](https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050)https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050)
-
+[Publication is available here, French only](https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050)
