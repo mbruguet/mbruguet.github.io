@@ -25,15 +25,15 @@ Work experience
       
 * Statistical Officer Trainee (2021.09 - 2022.09) \
     Ministry of Ecological Transition - Studies and Statistics Department \
-    Supervisor: Gaëtan Polard
+    Supervisor : Gaëtan Polard
 
 * Statistical Officer Trainee (2021.06 - 2021.09) \
     Territorial analysis unit of the French national institute for statistics and international studies \
-    Supervisors: Marie-Pierre de Bellefon & Thomas Morin
+    Supervisors : Marie-Pierre de Bellefon & Thomas Morin
  
 *  Research Assistant Trainee (2020.05-2020.06) \
     Aix-Marseille School of Economics \
-    Supervisor: Federico Trionfetti
+    Supervisor : Federico Trionfetti
 
 Skills
 ======
