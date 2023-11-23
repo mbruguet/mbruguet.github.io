@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Thesis title :** "Measuring and evaluating sufficiency and efficiency in French residential energy consumption" \
+**Thesis title :** "Evaluating sufficiency and efficiency in residential energy consumption" \
 **Supervisors :** Dr. Anna Cretti & Dr. Arthur Thomas \
 **Affiliations :** 
 * [Ministry of Ecological Transition - Studies and Statistics Department](https://www.statistiques.developpement-durable.gouv.fr/english-contents)
