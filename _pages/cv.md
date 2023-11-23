@@ -34,7 +34,13 @@ Work experience
 *  Research Assistant Trainee (2020.05-2020.06) \
     Aix-Marseille School of Economics \
     Supervisor : Federico Trionfetti
-
+   
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Skills
 ======
   * Machine Learning with R and Python \
