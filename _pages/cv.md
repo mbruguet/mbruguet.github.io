@@ -28,7 +28,7 @@ Work experience
     Supervisor : Gaëtan Polard
 
 * Statistical Officer Trainee (2021.06 - 2021.09) \
-    Territorial analysis unit of the French national institute for statistics and international studies \
+     French national institute for statistics and economic studies - Territorial analysis unit \
     Supervisors : Marie-Pierre de Bellefon & Thomas Morin
  
 *  Research Assistant Trainee (2020.05-2020.06) \
