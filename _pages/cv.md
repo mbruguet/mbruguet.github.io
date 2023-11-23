@@ -13,7 +13,7 @@ Education
 ======
 
 * Ph.D in Economics, Dauphine University, 2023-2026 \
-    Supervisors : \
+    Supervisors :
         * Anna Cretti
         * Arthur Thomas 
 * M.S. in Econometrics, Big Data and Statistics, Aix-Marseille School of Economics, 2020-2022
