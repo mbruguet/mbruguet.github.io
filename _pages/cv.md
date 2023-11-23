@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Economics, Dauphine University, 2023-2026
+* M.S. Econometrics, Big Data and Statistics, Aix-Marseille School of Economics, 2020-2022
+* B.S. in Economics and Finance, Rennes I University, 2017-2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+   
+* International Economist (2022.09 - 2023.10)
+     Banque de France
+     Supervisor : Françoise Drumetz
+      
+* Statistical Officer Trainee (2021.09 - 2022.09)
+    Ministry of Ecological Transition - Studies and Statistics Department 
+    Supervisor: Gaëtan Polard
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Statistical Officer Trainee (2021.06 - 2021.09)
+    Territorial analysis unit of the French national institute for statistics and international studies
+    Supervisor: Marie-Pierre de Bellefon & Thomas Morin
+ 
+*  Research Assistant Trainee (2020.05-2020.06)
+    Aix-Marseille School of Economics
+    Supervisor: Federico Trionfetti
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Machine Learning with R and Python
+        Supervised and Unsupervised Learning with R and Python
+        Deep learning with TensorFlow
+
 
 Publications
 ======
@@ -54,6 +62,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
