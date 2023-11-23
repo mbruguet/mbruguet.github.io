@@ -19,9 +19,9 @@ Education
 Work experience
 ======
    
-* International Economist (2022.09 - 2023.10)
-     Banque de France
-     Supervisor : Françoise Drumetz
+* International Economist (2022.09 - 2023.10) \
+     Banque de France \
+     Supervisor : Françoise Drumetz \
       
 * Statistical Officer Trainee (2021.09 - 2022.09)
     Ministry of Ecological Transition - Studies and Statistics Department 
