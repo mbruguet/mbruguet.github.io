@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 **Thesis title :** "Evaluating sufficiency and efficiency in residential energy consumption" \
-**Supervisors :** Dr. Anna Creti & Dr. Arthur Thomas \
+**Supervisors :** [Dr. Anna Creti](https://cgemp.dauphine.fr/fileadmin/mediatheque/centres/cgemp/CV/CV_2022/CV_Anna_Creti.pdf) & [Dr. Arthur Thomas](https://www.researchgate.net/profile/Arthur-Thomas-5) \
 **Affiliations :** 
 * [Ministry of Ecological Transition - Studies and Statistics Department](https://www.statistiques.developpement-durable.gouv.fr/english-contents)
 * [Dauphine University - LEDa](https://leda.dauphine.fr/)
