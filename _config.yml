@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+onometrics# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marie Bruguet"
   avatar           : "id_linkedin2.jpeg"
-  bio              : "Currently a PhD candidate, my research is centered around the topic of evaluating sufficiency and efficiency in  residential energy consumption. I am also passionate about machine learning and a maps lover."
+  bio              : "Currently a PhD candidate, my research is centered around the topic of evaluating sufficiency and efficiency in  residential energy consumption. I am also passionate about econometrics and a maps lover."
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
