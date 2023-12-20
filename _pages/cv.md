@@ -47,6 +47,7 @@ Skills
   * Machine Learning with R and Python \
         Supervised and Unsupervised Learning with R and Python \
         Deep learning with TensorFlow
+* Spatial analyse with R 
 
   
 Teaching
