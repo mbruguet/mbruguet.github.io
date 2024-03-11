@@ -36,11 +36,6 @@ Work experience
     *Aix-Marseille School of Economics (AMSE)* \
     Supervisor : Federico Trionfetti
    
-Publications
-======
-<> <ul>{% for post in site.publications %}
-<>    {% include archive-single-cv.html %}
-<>  {% endfor %}</ul>
   
 Skills
 ======
