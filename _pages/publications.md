@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Publications
+Les conditions de logement des ménages résidant en France en 2020 [(Publication is available here, French only)](https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# Ongoing Works
+Marie Bruguet, Arthur Thomas (2023). Weather Effects in Energy Seasonal Adjustment : An Application to France Energy Consumption.
