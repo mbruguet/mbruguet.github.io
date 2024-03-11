@@ -46,7 +46,7 @@ Skills
 
 Full CV
 ======
-
+[Here is my full CV available](files/CV_BRUGUET.pdf)
 
   
 
