@@ -22,7 +22,7 @@ Work experience
    
 * International Economist (2022.09 - 2023.10) \
      *Banque de France* \
-     Supervisor : Françoise Drumetz 
+     Supervisor : [Françoise Drumetz](https://scholar.google.com/citations?user=sqzqs7QAAAAJ&hl=fr&oi=ao)
       
 * Statistical Officer Trainee (2021.09 - 2022.09) \
     *Ministry of Ecological Transition - Studies and Statistics Department* \
@@ -30,11 +30,11 @@ Work experience
 
 * Statistical Officer Trainee (2021.06 - 2021.09) \
      *French national institute for statistics and economic studies (Insee) - Territorial analysis unit* \
-    Supervisors : Marie-Pierre de Bellefon & Thomas Morin
+    Supervisors : [Marie-Pierre Joubert - de Bellefon](https://scholar.google.com/citations?user=0iAPM98AAAAJ&hl=fr) & Thomas Morin
  
 *  Research Assistant Trainee (2020.05-2020.06) \
     *Aix-Marseille School of Economics (AMSE)* \
-    Supervisor : Federico Trionfetti
+    Supervisor : [Federico Trionfetti](https://trionfetti.wordpress.com/)
    
   
 Skills
@@ -46,7 +46,7 @@ Skills
 
 Full CV
 ======
-[Here is my full CV available](https://mbruguet.github.io/files/CV_BRUGUET.pdf)
+[Here is my full CV](https://mbruguet.github.io/files/CV_BRUGUET.pdf)
 
   
 
