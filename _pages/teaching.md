@@ -7,12 +7,12 @@ author_profile: true
 
 Econometrics
 ======
- * Time Series for Finance [Teaching Assistant] \
+ * Time Series for Finance [Graduate class - Teaching Assistant] \
    [Panthéon-Sorbonne, Paris, France](https://www.pantheonsorbonne.fr/)
-* Introduction to Econometric [Teaching Assistant] \
+* Introduction to Econometric [Undergraduate class - Teaching Assistant] \
   [Université Paris Dauphine](https://dauphine.psl.eu/)
     
 Macroeconomics
 ======
-* Monetary Instruments [Teaching Assistant] \
+* Monetary Instruments [Undergraduate class - eaching Assistant] \
    [Panthéon-Sorbonne, Paris, France](https://www.pantheonsorbonne.fr/)
