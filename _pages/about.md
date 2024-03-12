@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ========
-I am currently a PhD candidate at Paris Dauphine Université, my research is centred around evaluating sufficiency and efficiency in residential energy consumption. \
+I am currently a PhD candidate at Paris Dauphine Université, my research is centred around evaluating sufficiency and efficiency in residential energy consumption. 
 
 
 **Thesis title :** "Evaluating sufficiency and efficiency in residential energy consumption" \
