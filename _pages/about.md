@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-========
+
 I am currently a PhD candidate at Paris Dauphine Université, my research is centred around evaluating sufficiency and efficiency in residential energy consumption. 
 
 
