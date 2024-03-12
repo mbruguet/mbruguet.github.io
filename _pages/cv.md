@@ -47,14 +47,14 @@ Skills
    * Spatial analysis  
    
 **Machine Learning**
-    * Classification and regression 
-    * Supervised and unsupervised learning 
-    * Natural Language Processing (NLP)
+  * Classification and regression 
+  * Supervised and unsupervised learning 
+  * Natural Language Processing (NLP)
     
-* Survey modeling \
-    Preparing a sampling plan \
-    Monitoring the collection \
-    Adjustment and weighting (margin calibration) 
+  **Survey modeling**
+  * Preparing a sampling plan 
+  * Monitoring the collection 
+  * Adjustment and weighting (margin calibration) 
   
 * Programming \
   R - SQL - SAS - Python
