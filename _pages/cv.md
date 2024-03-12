@@ -44,17 +44,18 @@ Skills
     Time series analysis \
     Cross-section analysis \
     Panel analysis \
-    Spatial analysis  \
+    Spatial analysis  
    
 * Machine Learning
     Classification and regression \
     Supervised and unsupervised learning \
-    Natural Language Processing (NLP) \
+    Natural Language Processing (NLP) 
     
 * Survey modeling
     Preparing a sampling plan \
     Monitoring the collection \
-    Adjustment and weighting (margin calibration) \
+    Adjustment and weighting (margin calibration) 
+  
 * Programming
   R - SQL - SAS - Python
 
