@@ -40,11 +40,11 @@ Work experience
 Skills
 ======
 
-* Econometrics \
-    Time series analysis \
-    Cross-section analysis \
-    Panel analysis \
-    Spatial analysis  
+** Econometrics ** \
+   * Time series analysis \
+   * Cross-section analysis \
+   * Panel analysis \
+   * Spatial analysis  
    
 * Machine Learning \
     Classification and regression \
