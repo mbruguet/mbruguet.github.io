@@ -39,10 +39,24 @@ Work experience
   
 Skills
 ======
-  * Machine Learning with R and Python \
-        Supervised and Unsupervised Learning with R and Python \
-        Deep learning with TensorFlow
-* Spatial analyse with R 
+
+* Econometrics
+    Time series analysis \
+    Cross-section analysis \
+    Panel analysis \
+    Spatial analysis  \
+   
+* Machine Learning
+    Classification and regression \
+    Supervised and unsupervised learning \
+    Natural Language Processing (NLP) \
+    
+* Survey modeling
+    Preparing a sampling plan \
+    Monitoring the collection \
+    Adjustment and weighting (margin calibration) \
+* Programming
+  R - SQL - SAS - Python
 
 Full CV
 ======
