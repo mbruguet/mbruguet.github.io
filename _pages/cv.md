@@ -56,7 +56,7 @@ Skills
   * Monitoring the collection 
   * Adjustment and weighting (margin calibration) 
   
-* Programming \
+ **Programming**
   R - SQL - SAS - Python
 
 Full CV
