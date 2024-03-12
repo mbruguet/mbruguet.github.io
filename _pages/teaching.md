@@ -14,5 +14,5 @@ Econometrics
     
 Macroeconomics
 ======
-* Monetary Instruments [Undergraduate class - eaching Assistant] \
+* Monetary Instruments [Undergraduate class - Teaching Assistant] \
    [Panthéon-Sorbonne, Paris, France](https://www.pantheonsorbonne.fr/)
