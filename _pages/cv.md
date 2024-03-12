@@ -40,16 +40,16 @@ Work experience
 Skills
 ======
 
-** Econometrics ** \
-   * Time series analysis \
-   * Cross-section analysis \
-   * Panel analysis \
+**Econometrics**
+   * Time series analysis 
+   * Cross-section analysis 
+   * Panel analysis 
    * Spatial analysis  
    
-* Machine Learning \
-    Classification and regression \
-    Supervised and unsupervised learning \
-    Natural Language Processing (NLP) 
+**Machine Learning**
+    * Classification and regression 
+    * Supervised and unsupervised learning 
+    * Natural Language Processing (NLP)
     
 * Survey modeling \
     Preparing a sampling plan \
