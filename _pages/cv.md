@@ -40,23 +40,23 @@ Work experience
 Skills
 ======
 
-* Econometrics
+* Econometrics \
     Time series analysis \
     Cross-section analysis \
     Panel analysis \
     Spatial analysis  
    
-* Machine Learning
+* Machine Learning \
     Classification and regression \
     Supervised and unsupervised learning \
     Natural Language Processing (NLP) 
     
-* Survey modeling
+* Survey modeling \
     Preparing a sampling plan \
     Monitoring the collection \
     Adjustment and weighting (margin calibration) 
   
-* Programming
+* Programming \
   R - SQL - SAS - Python
 
 Full CV
