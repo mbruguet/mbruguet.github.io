@@ -7,10 +7,12 @@ author_profile: true
 
 Econometrics
 ======
- * Time Series for Finance [Graduate class - Teaching Assistant] (2024-)\
-   [Panthéon-Sorbonne, Paris, France](https://www.pantheonsorbonne.fr/)
-* Introduction to Econometric [Undergraduate class - Teaching Assistant] (2024-)\
+* Applied econometrics [Undergraduate class - Teaching Assistant] (2024 - )\
+  [ENSAI, Bruz, France](https://ensai.fr/cpt_matiere/econometrie-appliquee/)
+* Introduction to Econometric [Undergraduate class - Teaching Assistant] (2024 - )\
   [Université Paris-Dauphine, Paris, France](https://dauphine.psl.eu/)
+ * Time Series for Finance [Graduate class - Teaching Assistant] (spring 2024)\
+   [Panthéon-Sorbonne, Paris, France](https://www.pantheonsorbonne.fr/)
     
 Macroeconomics
 ======
