@@ -13,14 +13,14 @@ Education
 ======
 
 * Ph.D in Economics, *Dauphine University*, 2023-2026 
-* M.S. in Econometrics, Big Data and Statistics, *Aix-Marseille School of Economics (AMSE)*, 2020-2022
-* B.S. in Economics and Finance, *Rennes I University*, 2017-2020
+* M.Sc. in Econometrics, Big Data and Statistics, *Aix-Marseille School of Economics (AMSE)*, 2020-2022
+* B.Sc. in Economics and Finance, *Rennes I University*, 2017-2020
 * Erasmus Semester, *Norwegian University of Science and Technology (NTNU)* , 2021
 
 Work experience
 ======
    
-* International Economist (2022.09 - 2023.10) \
+* Economist-Statistician (2022.09 - 2023.10) \
      *Banque de France* \
      Supervisor : [Françoise Drumetz](https://scholar.google.com/citations?user=sqzqs7QAAAAJ&hl=fr&oi=ao)
       
@@ -61,7 +61,7 @@ Skills
 
 Full CV
 ======
-[Here is my full CV](https://mbruguet.github.io/files/CV_BRUGUET.pdf)
+[CV (updated on October 2024)](https://mbruguet.github.io/files/CV_BRUGUET.pdf)
 
   
 
