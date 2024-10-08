@@ -7,7 +7,7 @@ author_profile: true
 
 Econometrics
 ======
-* Applied econometrics [Undergraduate class - Teaching Assistant] (2024 - )\
+* Applied Econometrics [Undergraduate class - Teaching Assistant] (2024 - )\
   [ENSAI, Bruz, France](https://ensai.fr/cpt_matiere/econometrie-appliquee/)
 * Introduction to Econometric [Undergraduate class - Teaching Assistant] (2024 - )\
   [Université Paris-Dauphine, Paris, France](https://dauphine.psl.eu/)
