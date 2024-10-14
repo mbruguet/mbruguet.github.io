@@ -19,7 +19,9 @@ Conferences
     
 Workshops
 ======
-* 2024 -  **Econometrics seminar**\
+* 11-2024 - **FAEE 2024 Doctoral Student Workshop**\
+  [Association des économistes de l'énergie (AEE) - GAEL, Grenoble, France](https://www.faee.fr/fr/89/conf/351)
+* 01-2024 -  **Econometrics seminar**\
   [Université Paris-Dauphine - LEDa, Paris, France](https://leda.dauphine.fr/fr/seminaire-externe/seminaires-thematiques.html)
 
 
