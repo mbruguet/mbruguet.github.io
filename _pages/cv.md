@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Economics, *Dauphine University*, 2023-2026 
+* Ph.D in Economics, *Dauphine University*, 2023- 
 * M.Sc. in Econometrics, Big Data and Statistics, *Aix-Marseille School of Economics (AMSE)*, 2020-2022
 * B.Sc. in Economics and Finance, *Rennes I University*, 2017-2020
 * Erasmus Semester, *Norwegian University of Science and Technology (NTNU)* , 2021
