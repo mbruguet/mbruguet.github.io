@@ -16,4 +16,5 @@ author_profile: true
 criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
 
 # Web articles
+[**Des consommations d’énergie dépendantes des conditions météorologiques**](https://www.statistiques.developpement-durable.gouv.fr/des-consommations-denergie-dependantes-des-conditions-meteorologiques?rubrique=20&dossier=171) - Marie Bruguet (2025)
 [**Les conditions de logement des ménages résidant en France en 2020**](https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050) - Béatrice Boutchenik, Marie Bruguet and Gaëtan Polard (2022)
