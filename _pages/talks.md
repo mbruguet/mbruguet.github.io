@@ -4,7 +4,16 @@ title: ""
 permalink: /talks/
 author_profile: true
 ---
+Upcomming 
+======
+ * 04-2025 -  **PhD seminar**\
+   [Université Paris- Dauphine, LEDa, France](https://leda.dauphine.fr/fr/seminaire-externe/phd-presentation-workshop.html)
+ * 04-2025 -  **Séminaire de Statistique des Doctorant·e·s**\
+   [Université de Rennes, IRMAR, France](https://irmar.univ-rennes.fr/evenements/unveiling-frances-energy-conservation-policy-insights-2022-2023-energy-crisis)
+ * 06-2025 -  **46th IAEE International Conference**\
+   [Paris, France](https://iaee2025paris.org/)
 
+   
 Conferences
 ======
   * 07-2024 -  **44th International Symposium on Forecasting (ISF 2024)**\
