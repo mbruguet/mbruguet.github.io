@@ -22,7 +22,7 @@ Work experience
    
 * Economist-Statistician (2022.09 - 2023.10) \
      *Banque de France* \
-     Supervisor : [Françoise Drumetz](https://scholar.google.com/citations?user=sqzqs7QAAAAJ&hl=fr&oi=ao)
+     Supervisor : Françoise Drumetz
       
 * Statistical Officer Trainee (2021.09 - 2022.09) \
     *Ministry of Ecological Transition - Studies and Statistics Department* \
@@ -43,7 +43,7 @@ Work experience
 
 Full CV
 ======
-[CV (updated on October 2024)](https://mbruguet.github.io/files/CV_BRUGUET.pdf)
+[CV (updated on Mars 2025)](https://mbruguet.github.io/files/CV_BRUGUET.pdf)
 
   
 
