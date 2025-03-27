@@ -18,3 +18,13 @@ My research focuses on demand-side solutions for the energy transition, with a p
 * [Université Paris-Dauphine - LEDa](https://leda.dauphine.fr/)
 * [Climate Economics Chair](https://www.chaireeconomieduclimat.org/en/thesis/measuring-and-evaluating-sufficiency-and-efficiency-in-french-residential-energy-consumption-marie-bruguet/)
   
+Upcomming Talks
+======
+ * 04-2025 -  **Parisian PhD Seminar on Economics and Environment (PPSEE)**\
+   [Université Paris Nanterre - EconomiX, Paris, France](https://economix.fr/fr/colloques-et-workshops/second-edition-of-the-parisian-phd-seminar-on-economics-and-environment-ppsee)
+* 04-2025 -  **PhD seminar**\
+   [Université Paris-Dauphine - LEDa, Paris, France](https://leda.dauphine.fr/fr/seminaire-externe/phd-presentation-workshop.html)
+ * 04-2025 -  **Séminaire de Statistique des Doctorant·e·s**\
+   [Université de Rennes - IRMAR, Rennes, France](https://irmar.univ-rennes.fr/evenements/unveiling-frances-energy-conservation-policy-insights-2022-2023-energy-crisis)
+ * 06-2025 -  **46th IAEE International Conference**\
+   [Paris, France](https://iaee2025paris.org/)
