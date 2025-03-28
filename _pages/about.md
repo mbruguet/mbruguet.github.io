@@ -26,5 +26,7 @@ Upcomming Talks
    [Université Paris-Dauphine - LEDa, Paris, France](https://leda.dauphine.fr/fr/seminaire-externe/phd-presentation-workshop.html)
  * 04-2025 -  **Séminaire de Statistique des Doctorant·e·s**\
    [Université de Rennes - IRMAR, Rennes, France](https://irmar.univ-rennes.fr/evenements/unveiling-frances-energy-conservation-policy-insights-2022-2023-energy-crisis)
+  * 06-2025 -  **35th Young Energy Economists and Engineers Seminar (YEEES)**\
+   [Paris, France](https://blogs.tu-berlin.de/wip_yeees/event/yeees-35/)
  * 06-2025 -  **46th IAEE International Conference**\
    [Paris, France](https://iaee2025paris.org/)
