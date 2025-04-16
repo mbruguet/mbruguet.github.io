@@ -18,8 +18,12 @@ Conferences
   
 
     
-Workshops
+Workshops and Seminars
 ======
+* 04-2025 -  **Parisian PhD Seminar on Economics and Environment (PPSEE)**\
+   [Université Paris Nanterre - EconomiX, Paris, France](https://economix.fr/fr/colloques-et-workshops/second-edition-of-the-parisian-phd-seminar-on-economics-and-environment-ppsee)
+* 04-2025 -  **PhD seminar**\
+   [Université Paris-Dauphine - LEDa, Paris, France](https://leda.dauphine.fr/fr/seminaire-externe/phd-presentation-workshop.html)
 * 11-2024 - **FAEE 2024 Doctoral Student Workshop**\
   [Association des économistes de l'énergie (AEE) - GAEL, Grenoble, France](https://www.faee.fr/fr/89/conf/351)
 * 01-2024 -  **Econometrics seminar**\
