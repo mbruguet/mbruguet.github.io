@@ -22,6 +22,8 @@ Workshops and Seminars
 ======
 * 05-2025 -  **Econometrics seminar**\
   [Université Paris-Dauphine - LEDa, Paris, France](https://leda.dauphine.fr/fr/seminaire-externe/seminaires-thematiques.html)
+* 04-2025 -  **Séminaire de Statistique des Doctorant·e·s**\
+   [Université de Rennes - IRMAR, Rennes, France](https://irmar.univ-rennes.fr/evenements/unveiling-frances-energy-conservation-policy-insights-2022-2023-energy-crisis)
 * 04-2025 -  **Parisian PhD Seminar on Economics and Environment (PPSEE)**\
    [Université Paris Nanterre - EconomiX, Paris, France](https://economix.fr/fr/colloques-et-workshops/second-edition-of-the-parisian-phd-seminar-on-economics-and-environment-ppsee)
 * 04-2025 -  **PhD seminar**\
