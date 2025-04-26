@@ -36,7 +36,7 @@ Workshops and Seminars
    [Université Paris-Dauphine - LEDa, Paris, France](https://leda.dauphine.fr/fr/seminaire-externe/phd-presentation-workshop.html)
   
 <details>
-<summary><strong>2024</strong></summary>
+<summary><span style="font-size:1.5em;"><strong>2024</strong></span></summary>
 
 * 11-2024 - **FAEE 2024 Doctoral Student Workshop**\
   [Association des économistes de l'énergie (AEE) - GAEL, Grenoble, France](https://www.faee.fr/fr/89/conf/351)
