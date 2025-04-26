@@ -8,6 +8,9 @@ author_profile: true
    
 Conferences
 ======
+
+2024
+======
   * 07-2024 -  **44th International Symposium on Forecasting (ISF 2024)**\
    [Dijon, France](https://isf.forecasters.org/)
  * 06-2024 -  **Annual Conference of the International Association for Applied Econometrics (IAAE 2024)**\
@@ -20,6 +23,9 @@ Conferences
     
 Workshops and Seminars
 ======
+
+2025
+======
 * 05-2025 -  **Econometrics seminar**\
   [Université Paris-Dauphine - LEDa, Paris, France](https://leda.dauphine.fr/fr/seminaire-externe/seminaires-thematiques.html)
 * 04-2025 -  **Séminaire de Statistique des Doctorant·e·s**\
@@ -28,6 +34,9 @@ Workshops and Seminars
    [Université Paris Nanterre - EconomiX, Paris, France](https://economix.fr/fr/colloques-et-workshops/second-edition-of-the-parisian-phd-seminar-on-economics-and-environment-ppsee)
 * 04-2025 -  **PhD seminar**\
    [Université Paris-Dauphine - LEDa, Paris, France](https://leda.dauphine.fr/fr/seminaire-externe/phd-presentation-workshop.html)
+  
+2024
+======
 * 11-2024 - **FAEE 2024 Doctoral Student Workshop**\
   [Association des économistes de l'énergie (AEE) - GAEL, Grenoble, France](https://www.faee.fr/fr/89/conf/351)
 * 01-2024 -  **Econometrics seminar**\
