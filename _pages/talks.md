@@ -9,8 +9,8 @@ author_profile: true
 Conferences
 ======
 
-2024
-======
+### 2024
+
   * 07-2024 -  **44th International Symposium on Forecasting (ISF 2024)**\
    [Dijon, France](https://isf.forecasters.org/)
  * 06-2024 -  **Annual Conference of the International Association for Applied Econometrics (IAAE 2024)**\
