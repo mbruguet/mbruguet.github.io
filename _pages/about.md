@@ -20,8 +20,11 @@ My research focuses on demand-side solutions for the energy transition, and more
   
 Upcomming Talks
 ======
- * 04-2025 -  **Séminaire de Statistique des Doctorant·e·s**\
-   [Université de Rennes - IRMAR, Rennes, France](https://irmar.univ-rennes.fr/evenements/unveiling-frances-energy-conservation-policy-insights-2022-2023-energy-crisis)
+
+ * 06-2025 -  **JdS2025 : 56es Journées de Statistique de la SFdS**\
+   [Aix-Marseille Université - Campus Saint-Charles, Marsielle, France](https://jds2025.sciencesconf.org/?lang=en)
+ * 06-2025 -  **Third International Conference on Action versus Inaction Facing Climate Change**\
+   [École Polytechnique Fédérale de Lausanne - Lausanne, Suisse](https://aicc3.sciencesconf.org/?lang=en)
   * 06-2025 -  **35th Young Energy Economists and Engineers Seminar (YEEES)**\
    [Paris, France](https://blogs.tu-berlin.de/wip_yeees/event/yeees-35/)
  * 06-2025 -  **46th IAEE International Conference**\
