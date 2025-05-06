@@ -21,8 +21,6 @@ My research focuses on demand-side solutions for the energy transition, and more
 Upcomming Talks
 ======
 
- * 06-2025 -  **JdS2025 : 56es Journées de Statistique de la SFdS**\
-   [Aix-Marseille Université - Campus Saint-Charles, Marseille, France](https://jds2025.sciencesconf.org/?lang=en)
  * 06-2025 -  **Third International Conference on Action versus Inaction Facing Climate Change**\
    [École Polytechnique Fédérale de Lausanne - Lausanne, Suisse](https://aicc3.sciencesconf.org/?lang=en)
   * 06-2025 -  **35th Young Energy Economists and Engineers Seminar (YEEES)**\
