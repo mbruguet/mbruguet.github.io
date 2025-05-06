@@ -11,7 +11,7 @@ author_profile: true
 
 **Weather Effects in Energy Seasonal Adjustment: An Application to France Energy Consumption** - Marie Bruguet, Arthur Thomas, Ronan Le Saout (2025) 
 
-*Published in The Energy Journal* ;  [[The Energy Journal](https://doi.org/10.1177/01956574251330845)] [[working paper](https://mbruguet.github.io/files/ej_bruguet.pdf)] [[slides](https://mbruguet.github.io/files/faee_bruguet.pdf)] 
+*Published in [[The Energy Journal](https://doi.org/10.1177/01956574251330845)]* [[working paper](https://mbruguet.github.io/files/ej_bruguet.pdf)] [[slides](https://mbruguet.github.io/files/faee_bruguet.pdf)] 
 
 [*Awarded best student paper by the FAEE*](https://www.faee.fr/fr/51-prix-de-l-aee.html)
 
