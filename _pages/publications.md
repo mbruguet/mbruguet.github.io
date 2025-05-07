@@ -9,7 +9,7 @@ author_profile: true
 
 
 
- **Weather Effects in Energy Seasonal Adjustment: An Application to France Energy Consumption** Bruguet, M., Thomas, A., & Le Saout, R. (2025).
+ **Weather Effects in Energy Seasonal Adjustment: An Application to France Energy Consumption.** Bruguet, M., Thomas, A., & Le Saout, R. (2025)
 
 *Published in [The Energy Journal](https://doi.org/10.1177/01956574251330845)*  [[working paper](https://mbruguet.github.io/files/ej_bruguet.pdf)]  [[slides](https://mbruguet.github.io/files/faee_bruguet.pdf)] 
 
