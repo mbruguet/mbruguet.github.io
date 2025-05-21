@@ -28,4 +28,4 @@ Upcomming Talks
  * 06-2025 -  **46th IAEE International Conference**\
    [Paris, France](https://iaee2025paris.org/)
 * 09-2025 -  **12ème conférence annuelle de l’Association française des économistes de l’environnement et des ressources naturelles**\
-   [Nantes, France](https://faere.fr/conference-faere-2025/)
+   [IAE de Nantes, France](https://faere.fr/conference-faere-2025/)
