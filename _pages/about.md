@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate at [Université Paris-Dauphine](https://dauphine.psl.eu/).
-My research focuses on demand-side solutions for the energy transition, and more specifically on incentives for energy conservation. I am deeply motivated by the need to reduce energy consumption in order to reduce greenhouse gas emissions. By studying the performance of public energy conservation policies, my aim is to provide information and statistical tools that can help policy-makers design fairer interventions.
+I hold a Master’s degree in Econometrics and Statistics from the [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/en/study/master-econometrics-statistics), which I now apply to my research in energy economics. I am currently pursuing a PhD at [Université Paris-Dauphine](https://dauphine.psl.eu/), where I focus on demand-side solutions for the energy transition, with particular attention to incentives for energy conservation.
+I am deeply motivated by the need to reduce energy consumption as a key lever to cut greenhouse gas emissions. Through the evaluation of public energy conservation policies, my goal is to provide actionable insights and statistical tools that can support policy-makers in designing fairer and more effective interventions.
 
 **Thesis title :** "Evaluating sufficiency and efficiency in residential energy consumption" \
 **Supervisors :** [Dr. Anna Creti](https://cgemp.dauphine.fr/fileadmin/mediatheque/centres/cgemp/CV/CV_2022/CV_Anna_Creti.pdf) & [Dr. Arthur Thomas](https://arthurthomaseconometrics.github.io/) \
