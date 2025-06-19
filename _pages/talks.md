@@ -10,9 +10,9 @@ Conferences
 ======
 ### 2025
 
-   * 06-2025 -  **Third International Conference on Action versus Inaction Facing Climate Change**\
+   * 06-2025 -  **Third International Conference on Action versus Inaction Facing Climate Change (AICC 2025)**\
    [École Polytechnique Fédérale de Lausanne - Lausanne, Suisse](https://aicc3.sciencesconf.org/?lang=en)
- * 06-2025 -  **46th IAEE International Conference**\
+ * 06-2025 -  **46th IAEE International Conference (IAEE 2025)**\
    [Paris, France](https://iaee2025paris.org/)
 
 
