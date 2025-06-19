@@ -20,12 +20,5 @@ I am deeply motivated by the need to reduce energy consumption as a key lever to
   
 Upcomming Talks
 ======
-
- * 06-2025 -  **Third International Conference on Action versus Inaction Facing Climate Change**\
-   [École Polytechnique Fédérale de Lausanne - Lausanne, Suisse](https://aicc3.sciencesconf.org/?lang=en)
-  * 06-2025 -  **35th Young Energy Economists and Engineers Seminar (YEEES)**\
-   [Paris, France](https://blogs.tu-berlin.de/wip_yeees/event/yeees-35/)
- * 06-2025 -  **46th IAEE International Conference**\
-   [Paris, France](https://iaee2025paris.org/)
 * 09-2025 -  **12ème conférence annuelle de l’Association française des économistes de l’environnement et des ressources naturelles**\
    [IAE de Nantes, France](https://faere.fr/conference-faere-2025/)
