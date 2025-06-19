@@ -8,6 +8,13 @@ author_profile: true
    
 Conferences
 ======
+### 2025
+
+   * 06-2025 -  **Third International Conference on Action versus Inaction Facing Climate Change**\
+   [École Polytechnique Fédérale de Lausanne - Lausanne, Suisse](https://aicc3.sciencesconf.org/?lang=en)
+ * 06-2025 -  **46th IAEE International Conference**\
+   [Paris, France](https://iaee2025paris.org/)
+
 
 ### 2024
 
@@ -18,13 +25,14 @@ Conferences
  * 05-2024 -  **The 2024 RCEA International Conference in Economics, Econometrics, and Finance (ICEEF2024)**\
    [Brunel University, London, United-Kingdom](https://www.rcea.world/events/forthcoming-events/the-2024-rcea-international-conference)
 
-  
 
     
 Workshops and Seminars
 ======
 
 ### 2025
+  * 06-2025 -  **35th Young Energy Economists and Engineers Seminar (YEEES)**\
+   [Paris, France](https://blogs.tu-berlin.de/wip_yeees/event/yeees-35/)
 * 05-2025 -  **Econometrics seminar**\
   [Université Paris-Dauphine - LEDa, Paris, France](https://leda.dauphine.fr/fr/seminaire-externe/seminaires-thematiques.html)
 * 04-2025 -  **Séminaire de Statistique des Doctorant·e·s**\
