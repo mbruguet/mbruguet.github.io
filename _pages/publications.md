@@ -18,7 +18,7 @@ author_profile: true
 >*This paper addresses the challenge of adjusting energy consumption data for weather variations by introducing a novel General Weather Indicator (GWI). The GWI combines multiple weather variables, including temperature, wind, sunlight, rain, and cloudiness, using a novel econometric approach that applies K-means for threshold identification and LASSO for variable selection. Through an empirical analysis of sectoral, electricity and natural gas consumption in France, we demonstrate that the GWI outperforms the standard HDD approach by addressing three main concerns: the lack of statistical
 criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
 
-# Ongoing Works
+# Ongoing Work
 **When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2025)
 >*This paper examines whether government communication can shape household electricity demand during an energy crisis. Using a dataset of over 12,000 official state-
 ments linked with narrative-specific attention indices and daily residential electricity use in France, the analysis shows that effects depend on both framing and context. Conservation-oriented appeals generate only short-term reductions outside the load reduction periods imposed by the grid operator, while crisis-framed messages, particularly those highlighting supply risks, trigger immediate and measurable cuts in consumption. These responses are concentrated among households on peak/off-peak tariffs, who consume substantially more electricity and face time-differentiated prices, whereas base-tariff households react mainly to prices and temperature. The results underscore that public communication can enhance demand-side flexibility, but primarily when framed around credible scarcity risks and targeted toward consumers with the capacity to shift or reduce usage. Communication should thus be seen as a complement, rather than a substitute, to price signals and operational measures in periods of energy stress.*
@@ -33,7 +33,7 @@ ments linked with narrative-specific attention indices and daily residential ele
 The study has two objectives: first, to characterise the quality and representativeness of the sample; and second, to model consumption by use in order to assess the sensitivity of various uses (e.g. heating, domestic hot water and cooling) during the energy crisis. The methodological approach combines in-depth descriptive analysis with a regression model that predicts consumption based on general consumption. This model is trained using ElecDom data and then applied to representative data provided by Enedis.*
 
 
-# Web articles
+# Web article
 [**Des consommations d’énergie dépendantes des conditions météorologiques**](https://www.statistiques.developpement-durable.gouv.fr/des-consommations-denergie-dependantes-des-conditions-meteorologiques?rubrique=20&dossier=171) - Marie Bruguet (2025)
 
 [**Les conditions de logement des ménages résidant en France en 2020**](https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050) - Béatrice Boutchenik, Marie Bruguet and Gaëtan Polard (2022)
