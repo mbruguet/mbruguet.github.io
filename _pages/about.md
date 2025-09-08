@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Welcome to my website!**  
+
 I am a third-year PhD candidate in economics at [Université Paris-Dauphine](https://dauphine.psl.eu/). My research lies at the intersection of energy economics and public policy, with a particular focus on demand-side solutions for the energy transition.  
 
 I study how incentives can foster energy conservation, aiming to evaluate and design fair, effective policies that reduce greenhouse gas emissions. My work combines econometric methods with policy evaluation, bridging academic research and practical interventions.  
