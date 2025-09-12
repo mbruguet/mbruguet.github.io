@@ -14,7 +14,5 @@ My research focuses on demand-side solutions for the energy transition, with par
   
 Upcomming Talks
 ======
-* 09-2025 -  **12ème conférence annuelle de l’Association française des économistes de l’environnement et des ressources naturelles**\
-   [IAE de Nantes, France](https://faere.fr/conference-faere-2025/)
 * 09-2025 -  **Big Data and Econometrics Seminar**\
    [AMSE, Marseille, France](https://www.amse-aixmarseille.fr/fr/evenements/marie-bruguet)
