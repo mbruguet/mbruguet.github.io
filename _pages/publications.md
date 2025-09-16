@@ -21,9 +21,9 @@ criteria for defining the base temperature, the reliance solely on temperature a
 # Research in Progress
 **When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2025)
 
-**Efficiency versus Flexibility: The Impact of Heat Pumps on Household Electricity Demand in France** Bruguet, M. and Civel, E. (2025)
+**Efficiency versus Flexibility: The Impact of Heat Pumps on Household Electricity Demand in France.** Bruguet, M. and Civel, E. (2025)
 
-**Electricity Consumption Dynamics in the French Residential Sector: Lessons from the Household Appliance Usage Panel** Bruguet, M. and Mary, A. (2025)
+**Electricity Consumption Dynamics in the French Residential Sector: Lessons from the Household Appliance Usage Panel.** Bruguet, M. and Mary, A. (2025)
 
 # Web article
 [**Des consommations d’énergie dépendantes des conditions météorologiques**](https://www.statistiques.developpement-durable.gouv.fr/des-consommations-denergie-dependantes-des-conditions-meteorologiques?rubrique=20&dossier=171) - Marie Bruguet (2025)
