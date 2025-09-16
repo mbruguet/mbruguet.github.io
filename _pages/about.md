@@ -14,5 +14,7 @@ My research focuses on demand-side solutions for the energy transition, with par
   
 Upcomming Talks
 ======
-* 09-2025 -  **Big Data and Econometrics Seminar**\
-   [AMSE, Marseille, France](https://www.amse-aixmarseille.fr/fr/evenements/marie-bruguet)
+* 11-2025 -  **Journée de méthodologie statistique de l'Insee**\
+   [Sorbonne Université, Paris, France](https://journees-methodologie-statistique.insee.net/)
+* 12-2025 -  **8th European Conference on Behaviour and Energy Efficiency**\
+   [Cité Internationale Universitaire de Paris, Paris, France](https://www.innoverpourlatransitionecologique.fr/fr/challenges/behave-2025?lang=en)
