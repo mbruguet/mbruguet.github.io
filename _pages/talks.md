@@ -32,6 +32,8 @@ Workshops and Seminars
 ======
 
 ### 2025
+* 09-2025 -  **Big Data and Econometrics Seminar**\
+   [AMSE, Marseille, France](https://www.amse-aixmarseille.fr/fr/evenements/marie-bruguet)
   * 06-2025 -  **35th Young Energy Economists and Engineers Seminar (YEEES)**\
    [Paris, France](https://blogs.tu-berlin.de/wip_yeees/event/yeees-35/)
 * 05-2025 -  **Econometrics seminar**\
