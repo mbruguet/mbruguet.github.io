@@ -9,7 +9,7 @@ author_profile: true
 Conferences
 ======
 ### 2025
-* 09-2025 -  **12ème conférence annuelle de l’Association française des économistes de l’environnement et des ressources naturelles**\
+* 09-2025 -  **12ème conférence annuelle de l’Association française des économistes de l’environnement et des ressources naturelles (FAERE 2025)**\
    [IAE de Nantes, France](https://faere.fr/conference-faere-2025/)
 * 06-2025 -  **Third International Conference on Action versus Inaction Facing Climate Change (AICC 2025)**\
    [École Polytechnique Fédérale de Lausanne - Lausanne, Suisse](https://aicc3.sciencesconf.org/?lang=en)
