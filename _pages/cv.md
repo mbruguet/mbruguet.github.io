@@ -43,7 +43,7 @@ Work experience
 
 Full CV
 ======
-[CV (updated on May 2025)](https://mbruguet.github.io/files/CV_BRUGUET.pdf)
+[CV (updated on September 2025)](https://mbruguet.github.io/files/CV_BRUGUET.pdf)
 
   
 
