@@ -15,6 +15,8 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
   
 Upcomming Talks
 ======
+* 11-2024 - **FAEE 2025 Doctoral Student Workshop**\
+  [Association des économistes de l'énergie (AEE) - GAEL, Grenoble, France](https://www.faee.fr/en/89/conf/364)
 * 11-2025 -  **Journée de méthodologie statistique de l'Insee**\
    [Sorbonne Université, Paris, France](https://journees-methodologie-statistique.insee.net/)
 * 12-2025 -  **8th European Conference on Behaviour and Energy Efficiency**\
