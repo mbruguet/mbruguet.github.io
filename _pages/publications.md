@@ -24,7 +24,9 @@ criteria for defining the base temperature, the reliance solely on temperature a
 
 # Research in Progress
 **Efficiency versus Flexibility: The Impact of Heat Pumps on Household Electricity Demand in France.** Bruguet, M. and Civel, E. (2025)
+
 **Switching to Clean Heat: Household-Level Impacts of Heat Pump Adoption under ETS2 in France** Bruguet, M. and Baba-Moussa, W. (2025)
+
 **Electricity Consumption Dynamics in the French Residential Sector: Lessons from the Household Appliance Usage Panel.** Bruguet, M. and Mary, A. (2025)
 
 # Web article
