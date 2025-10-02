@@ -9,7 +9,7 @@ author_profile: true
 
 # Peer-reviewed Publication
 
- **Weather Effects in Energy Seasonal Adjustment: An Application to France Energy Consumption.** Bruguet, M., Thomas, A., & Le Saout, R. (2025) [*Awarded best student paper by the FAEE*](https://www.faee.fr/fr/51-prix-de-l-aee.html)
+ **Weather Effects in Energy Seasonal Adjustment: An Application to France Energy Consumption.** Bruguet, M., Thomas, A., & Le Saout, R. (2025) [*Awarded best student paper 2024 by the FAEE*](https://www.faee.fr/fr/51-prix-de-l-aee.html)
 
 *Published in [The Energy Journal](https://doi.org/10.1177/01956574251330845)*  [[working paper](https://mbruguet.github.io/files/ej_bruguet.pdf)]  [[slides](https://mbruguet.github.io/files/faee_bruguet.pdf)] 
 
@@ -23,7 +23,7 @@ criteria for defining the base temperature, the reliance solely on temperature a
 >*A central question for policymakers is whether communication can serve as an effective policy instrument. This paper studies France’s 2022–23 energy crisis, when reduced nuclear availability and surging prices led the government to launch one of Europe’s largest conservation campaigns. Drawing on more than 12,000 official communications, narrative-specific attention indices from Google searches, and tariff-disaggregated electricity data, the analysis traces the channel from communication to attention to demand. Crisis-framed messages captured attention and reduced consumption, while generic appeals had little effect. Communication thus enhances demand flexibility under scarcity but cannot substitute for prices or operational measures.*
 
 # Research in Progress
-**Efficiency versus Flexibility: The Impact of Heat Pumps on Household Electricity Demand in France.** Bruguet, M. and Civel, E. (2025)
+**Efficiency versus Flexibility: The Impact of Heat Pumps on Household Electricity Demand in France.** Bruguet, M. and Civel, E. (2025) [*Shortlisted for best student paper 2025 by the FAEE*]
 
 **Switching to Clean Heat: Household-Level Impacts of Heat Pump Adoption under ETS2 in France** Bruguet, M. and Baba-Moussa, W. (2025)
 
