@@ -10,6 +10,7 @@ author_profile: true
 # Peer-reviewed Publication
 
  **Weather Effects in Energy Seasonal Adjustment: An Application to France Energy Consumption.** Bruguet, M., Thomas, A., & Le Saout, R. (2025)
+ 
  [[*Awarded best student paper 2024 by the FAEE*](https://www.faee.fr/fr/51-prix-de-l-aee.html)]
 
 *Published in [The Energy Journal](https://doi.org/10.1177/01956574251330845)*  [[working paper](https://mbruguet.github.io/files/ej_bruguet.pdf)]  [[slides](https://mbruguet.github.io/files/faee_bruguet.pdf)] 
