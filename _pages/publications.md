@@ -19,8 +19,8 @@ author_profile: true
 >*This paper addresses the challenge of adjusting energy consumption data for weather variations by introducing a novel General Weather Indicator (GWI). The GWI combines multiple weather variables, including temperature, wind, sunlight, rain, and cloudiness, using a novel econometric approach that applies K-means for threshold identification and LASSO for variable selection. Through an empirical analysis of sectoral, electricity and natural gas consumption in France, we demonstrate that the GWI outperforms the standard HDD approach by addressing three main concerns: the lack of statistical
 criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
 
-# Working Paper
-**When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2025) [[working paper](https://www.chaireeconomieduclimat.org/wp-content/uploads/2025/09/WP-2025-15.pdf)]
+# Working Paper  
+**When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2025) [[working paper](https://mbruguet.github.io/files/20251002_BRUGUET_chapitre2.pdf)]
 >*A central question for policymakers is whether communication can serve as an effective policy instrument. This paper studies France’s 2022–23 energy crisis, when reduced nuclear availability and surging prices led the government to launch one of Europe’s largest conservation campaigns. Drawing on more than 12,000 official communications, narrative-specific attention indices from Google searches, and tariff-disaggregated electricity data, the analysis traces the channel from communication to attention to demand. Crisis-framed messages captured attention and reduced consumption, while generic appeals had little effect. Communication thus enhances demand flexibility under scarcity but cannot substitute for prices or operational measures.*
 
 # Research in Progress
