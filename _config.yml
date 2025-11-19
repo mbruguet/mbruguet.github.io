@@ -86,7 +86,7 @@ author:
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=J8ztPX0AAAAJ&hl=fr"
+  googlescholar    : #"https://scholar.google.com/citations?user=J8ztPX0AAAAJ&hl=fr"
   email            : "marie.bruguet@dauphine.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mbruguet"
+  github           : #"mbruguet"
   google_plus      :
   keybase          :
   instagram        :
