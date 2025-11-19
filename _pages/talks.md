@@ -32,6 +32,11 @@ Workshops and Seminars
 ======
 
 ### 2025
+
+* 11-2025 - **Poster for the Dauphine Digital Days**\
+  [Dauphine Digital Days, Paris France](https://dauphine.psl.eu/dauphine/media-et-communication/article/presentation-des-posters-scientifiques-par-les-doctorants)
+* 11-2025 - **FAEE 2025 Doctoral Student Workshop**\
+  [Association des économistes de l'énergie (AEE) - GAEL, Grenoble, France](https://www.faee.fr/en/89/conf/364)
 * 09-2025 -  **Big Data and Econometrics Seminar**\
    [AMSE, Marseille, France](https://www.amse-aixmarseille.fr/fr/evenements/marie-bruguet)
 * 06-2025 -  **35th Young Energy Economists and Engineers Seminar (YEEES)**\
