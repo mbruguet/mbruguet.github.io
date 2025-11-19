@@ -86,7 +86,7 @@ author:
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=J8ztPX0AAAAJ&hl=fr"
+  googlescholar    : "https://scholar.google.com/citations?user=J8ztPX0AAAAJ&hl=fr"
   email            : "marie.bruguet@dauphine.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mariebruguet/"
-  orcid            : "https://orcid.org/0009-0000-3295-8959"
+  orcid            : #"https://orcid.org/0009-0000-3295-8959"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
