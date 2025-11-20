@@ -15,7 +15,7 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 
 NEWS
 ======
-I am pleased to share that I will be a Visiting Scholar at Columbia University’s [School of International and Public Affairs (SIPA)](https://www.sipa.columbia.edu/) during Spring 2026, hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/).
+I am pleased to share that I will be a Visiting Scholar at Columbia University’s [School of International and Public Affairs (SIPA)](https://www.sipa.columbia.edu/) during Spring 2026, hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/)
 
 
 Upcomming Talks
