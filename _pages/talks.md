@@ -9,6 +9,10 @@ author_profile: true
 Conferences
 ======
 ### 2025
+* 12-2025 -  **8th European Conference on Behaviour and Energy Efficiency**\
+   [Cité Internationale Universitaire de Paris, Paris, France](https://www.innoverpourlatransitionecologique.fr/fr/challenges/behave-2025?lang=en)
+* 11-2025 -  **Journée de méthodologie statistique de l'Insee**\
+   [Sorbonne Université, Paris, France](https://journees-methodologie-statistique.insee.net/)
 * 09-2025 -  **12ème conférence annuelle de la FAERE (FAERE 2025)**\
    [IAE de Nantes, France](https://faere.fr/conference-faere-2025/)
 * 06-2025 -  **Third International Conference on Action versus Inaction Facing Climate Change (AICC 2025)**\
