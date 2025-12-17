@@ -13,9 +13,4 @@ My research focuses on demand-side solutions for the energy transition, with par
 
 I also hold a Master’s degree in econometrics from [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/fr) and remain passionate about applying econometrics and machine learning,  which allows me to explore complex data in innovative ways regarding environmental challenges. 
 
-Upcomming Talks
-======
-* 11-2025 -  **Journée de méthodologie statistique de l'Insee**\
-   [Sorbonne Université, Paris, France](https://journees-methodologie-statistique.insee.net/)
-* 12-2025 -  **8th European Conference on Behaviour and Energy Efficiency**\
-   [Cité Internationale Universitaire de Paris, Paris, France](https://www.innoverpourlatransitionecologique.fr/fr/challenges/behave-2025?lang=en)
+
