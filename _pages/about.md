@@ -15,4 +15,4 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 
 # NEWS 
 
-I will be attending [SIPA Columbia](https://www.sipa.columbia.edu/) as a visiting student during the spring semester of 2026, hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/)
+I will be attending [SIPA Columbia](https://www.sipa.columbia.edu/) as a visiting student during the spring semester of 2026, hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/).
