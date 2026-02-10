@@ -24,11 +24,10 @@ criteria for defining the base temperature, the reliance solely on temperature a
 >*A central question for policymakers is whether communication can serve as an effective policy instrument. This paper studies France’s 2022–23 energy crisis, when reduced nuclear availability and surging prices led the government to launch one of Europe’s largest conservation campaigns. Drawing on more than 12,000 official communications, narrative-specific attention indices from Google searches, and tariff-disaggregated electricity data, the analysis traces the channel from communication to attention to demand. Crisis-framed messages captured attention and reduced consumption, while generic appeals had little effect. Communication thus enhances demand flexibility under scarcity but cannot fully substitute for prices or operational measures.*
 
 # Research in Progress
+
+**Switching to Clean Heat: Household-Level Impacts of Heat Pump Adoption in France** Bruguet, M. and Baba-Moussa, W. (2025)
+
 **Is there a rebound effect ? The Impact of Heat Pumps on Household Electricity Demand in France.** Bruguet, M., Civel, E. and Creti A. (2025) [*Shortlisted for best student paper 2025 by the FAEE*]
-
-**Switching to Clean Heat: Household-Level Impacts of Heat Pump Adoption under ETS2 in France** Bruguet, M. and Baba-Moussa, W. (2025)
-
-**Electricity Consumption Dynamics in the French Residential Sector: Lessons from the Household Appliance Usage Panel.** Bruguet, M. and Mary, A. (2025)
 
 # Web article
 [**Des consommations d’énergie dépendantes des conditions météorologiques**](https://www.statistiques.developpement-durable.gouv.fr/des-consommations-denergie-dependantes-des-conditions-meteorologiques?rubrique=20&dossier=171) - Marie Bruguet (2025)
