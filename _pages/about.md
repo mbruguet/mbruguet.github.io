@@ -18,7 +18,6 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 
 I am attending the [Center for Environmental Economics and Policy](https://ceep.columbia.edu/) at [Columbia SIPA](https://www.sipa.columbia.edu/) as a visiting PhD student during the spring semester of 2026, hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/).
 
-
 ## Next talk
 * 03-2026 -  **17th annual Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD 2026)**\
    [Columbia University, New York City](https://blogs.cuit.columbia.edu/sdds/ipwsd/)
