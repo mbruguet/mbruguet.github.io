@@ -21,7 +21,9 @@ I am attending the [Center for Environmental Economics and Policy](https://ceep.
 ## Next talk
 
 * 03-2026 -  **Sustainable Development Colloquium**\
-   [SIPA, Columbia University, New York City](https://columbia.seminars.app/?d=gawoIchR0GvUPm2aTLhz)
+   [SIPA, Columbia University, New York City, United States](https://columbia.seminars.app/?d=gawoIchR0GvUPm2aTLhz)
 * 03-2026 -  **17th annual Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD 2026)**\
-   [SIPA, Columbia University, New York City](https://blogs.cuit.columbia.edu/sdds/ipwsd/)
+   [SIPA, Columbia University, New York City, United States](https://blogs.cuit.columbia.edu/sdds/ipwsd/)
+* 06-2026 **Seminar Investigating low Demand Economy for CLIMate transition (DECLIM)**
+  [CIRED, Nogent-sur-Marne, France](https://www.centre-cired.fr/groupe-de-recherche-declim/)
 
