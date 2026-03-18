@@ -20,12 +20,12 @@ author_profile: true
 criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
 
 # Working Paper  
-**When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2025) [[working paper](https://mbruguet.github.io/files/BRUGUET_jmp.pdf)]
->*A central question for policymakers is whether communication can serve as an effective policy instrument. This paper studies France’s 2022–23 energy crisis, when reduced nuclear availability and surging prices led the government to launch one of Europe’s largest conservation campaigns. Drawing on more than 12,000 official communications, narrative-specific attention indices from Google searches, and tariff-disaggregated electricity data, the analysis traces the channel from communication to attention to demand. Crisis-framed messages captured attention and reduced consumption, while generic appeals had little effect. Communication thus enhances demand flexibility under scarcity but cannot fully substitute for prices or operational measures.*
+**When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2026) 
+>*A central question for policymakers is whether communication can serve as an effective policy instrument. This paper examines France’s 2022 energy crisis, when reduced nuclear availability and surging prices prompted the government to launch one of Europe’s largest conservation campaigns. Using more than 12,000 official communications, narrative-specific attention indices from Google searches, and tariff-disaggregated electricity data, the analysis examines the process by which communication leads to attention and subsequently to change in demand. The effectiveness of communication is determined by message framing and household flexibility: conservation appeals only gain traction only when embedded within crisis narratives, and translates into consumption reductions exclusively among households possessing actionable adjustment capacity.*
 
 # Research in Progress
 
-**Switching to Clean Heat: Household-Level Impacts of Heat Pump Adoption in France** Bruguet, M. and Baba-Moussa, W. (2025)
+**Effects of Adopting a Heat-Pump on Actual Residential Energy Consumption** Bruguet, M. and Baba-Moussa, W. (2025)
 
 **Is there a rebound effect ? The Impact of Heat Pumps on Household Electricity Demand in France.** Bruguet, M., Civel, E. and Creti A. (2025) [*Shortlisted for best student paper 2025 by the FAEE*]
 
