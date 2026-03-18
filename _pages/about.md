@@ -26,4 +26,5 @@ I am attending the [Center for Environmental Economics and Policy](https://ceep.
    [SIPA, Columbia University, New York City, United States](https://blogs.cuit.columbia.edu/sdds/ipwsd/)
 * 06-2026 **Seminar Investigating low Demand Economy for CLIMate transition (DECLIM)**\
   [CIRED, Nogent-sur-Marne, France](https://www.centre-cired.fr/groupe-de-recherche-declim/)
-
+* 07-2026 **7th World Congress of Environmental and Resource Economists (WCERE 2026)**\
+  [NOVA SBE, Carcavelos, Portugal](https://wcere2026.org/)
