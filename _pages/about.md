@@ -22,9 +22,9 @@ I am attending the [Center for Environmental Economics and Policy](https://ceep.
 
 * 03-2026 -  **Sustainable Development Colloquium**\
    [SIPA, Columbia University, New York City, United States](https://columbia.seminars.app/?d=gawoIchR0GvUPm2aTLhz)
-* 03-2026 -  **17th annual Interdisciplinary Ph.D. Workshop in Sustainable Development (IPWSD 2026)**\
+* 03-2026 -  **17th annual Interdisciplinary Ph.D. Workshop in Sustainable Development**\
    [SIPA, Columbia University, New York City, United States](https://blogs.cuit.columbia.edu/sdds/ipwsd/)
-* 06-2026 **Seminar Investigating low Demand Economy for CLIMate transition (DECLIM)**\
+* 06-2026 **Seminar Investigating low Demand Economy for CLIMate transition**\
   [CIRED, Nogent-sur-Marne, France](https://www.centre-cired.fr/groupe-de-recherche-declim/)
-* 07-2026 **7th World Congress of Environmental and Resource Economists (WCERE 2026)**\
+* 07-2026 **7th World Congress of Environmental and Resource Economists**\
   [NOVA SBE, Carcavelos, Portugal](https://wcere2026.org/)
