@@ -35,6 +35,13 @@ Conferences
 Workshops and Seminars
 ======
 
+### 2026
+
+* 03-2026 -  **Sustainable Development Colloquium**\
+   [SIPA, Columbia University, New York City, United States](https://columbia.seminars.app/?d=gawoIchR0GvUPm2aTLhz)
+* 03-2026 -  **17th annual Interdisciplinary Ph.D. Workshop in Sustainable Development**\
+   [SIPA, Columbia University, New York City, United States](https://blogs.cuit.columbia.edu/sdds/ipwsd/)
+
 ### 2025
 
 * 11-2025 - **Poster for the Dauphine Digital Days**\
