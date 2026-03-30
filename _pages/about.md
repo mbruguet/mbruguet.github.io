@@ -20,10 +20,6 @@ I am attending the [Center for Environmental Economics and Policy](https://ceep.
 
 ## Next talk
 
-* 03-2026 -  **Sustainable Development Colloquium**\
-   [SIPA, Columbia University, New York City, United States](https://columbia.seminars.app/?d=gawoIchR0GvUPm2aTLhz)
-* 03-2026 -  **17th annual Interdisciplinary Ph.D. Workshop in Sustainable Development**\
-   [SIPA, Columbia University, New York City, United States](https://blogs.cuit.columbia.edu/sdds/ipwsd/)
 * 06-2026 -  **74th Congress of the French Economic Association**\
   [LEMNA, Nantes, France](https://www.afse.fr/fr/news/afse-2026-nantes-universite-2479)
 * 06-2026 -  **Seminar Investigating low Demand Economy for CLIMate transition**\
