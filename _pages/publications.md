@@ -37,6 +37,6 @@ criteria for defining the base temperature, the reliance solely on temperature a
 
 ---
 # Articles publiés sur le site du Service des Données et Etudes Statistiques (SDES)
-[**Des consommations d’énergie dépendantes des conditions météorologiques**](https://www.statistiques.developpement-durable.gouv.fr/des-consommations-denergie-dependantes-des-conditions-meteorologiques?rubrique=20&dossier=171) - Marie Bruguet (2025)
+[**Des consommations d’énergie dépendantes des conditions météorologiques**](https://www.statistiques.developpement-durable.gouv.fr/des-consommations-denergie-dependantes-des-conditions-meteorologiques?rubrique=20&dossier=171) - Bruguet, M. (2025)
 
-[**Les conditions de logement des ménages résidant en France en 2020**](https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050) - Béatrice Boutchenik, Marie Bruguet and Gaëtan Polard (2022)
+[**Les conditions de logement des ménages résidant en France en 2020**](https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050) - Boutchenik, B., Bruguet, M. et Polard, G. (2022)
