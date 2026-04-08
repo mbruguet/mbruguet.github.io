@@ -35,7 +35,8 @@ criteria for defining the base temperature, the reliance solely on temperature a
 
 **Is there a rebound effect ? The Impact of Heat Pumps on Household Electricity Demand in France.** Bruguet, M., Civel, E. and Creti A. (2025) [*Shortlisted for best student paper 2025 by the FAEE*]
 
-# Web article
+---
+# Articles Web publiés par le SDES
 [**Des consommations d’énergie dépendantes des conditions météorologiques**](https://www.statistiques.developpement-durable.gouv.fr/des-consommations-denergie-dependantes-des-conditions-meteorologiques?rubrique=20&dossier=171) - Marie Bruguet (2025)
 
 [**Les conditions de logement des ménages résidant en France en 2020**](https://www.statistiques.developpement-durable.gouv.fr/les-conditions-de-logement-des-menages-residant-en-france-en-2020?rubrique=54&dossier=1050) - Béatrice Boutchenik, Marie Bruguet and Gaëtan Polard (2022)
