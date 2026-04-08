@@ -9,12 +9,11 @@ author_profile: true
 
 # Peer-reviewed Publication
 
- **Weather Effects in Energy Seasonal Adjustment: An Application to France Energy Consumption.** Bruguet, M., Thomas, A. and Le Saout, R. (2025), The Energy Journal, vol. 46, n°5
- [[*Awarded best student paper 2024 by the FAEE*](https://www.faee.fr/fr/51-prix-de-l-aee.html)]
+ **Weather Effects in Energy Seasonal Adjustment: An Application to France Energy Consumption.** Bruguet, M., Thomas, A. and Le Saout, R. (2025), [The Energy Journal, vol. 46, n°5](https://doi.org/10.1177/01956574251330845) [[working paper](https://mbruguet.github.io/files/ej_bruguet.pdf)]  [[slides](https://mbruguet.github.io/files/faee_bruguet.pdf)] 
+ 
+*Awarded : [best student paper 2024 by the FAEE](https://www.faee.fr/fr/51-prix-de-l-aee.html)*
 
-*Published in [The Energy Journal](https://doi.org/10.1177/01956574251330845)*  [[working paper](https://mbruguet.github.io/files/ej_bruguet.pdf)]  [[slides](https://mbruguet.github.io/files/faee_bruguet.pdf)] 
-
-
+*Presented at : ICEEF 2024, IAAE 2024, ISF 2024, JMS 2025, FAEE Doctoral Student Workshop 2024*
 
 >*This paper addresses the challenge of adjusting energy consumption data for weather variations by introducing a novel General Weather Indicator (GWI). The GWI combines multiple weather variables, including temperature, wind, sunlight, rain, and cloudiness, using a novel econometric approach that applies K-means for threshold identification and LASSO for variable selection. Through an empirical analysis of sectoral, electricity and natural gas consumption in France, we demonstrate that the GWI outperforms the standard HDD approach by addressing three main concerns: the lack of statistical
 criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
