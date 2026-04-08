@@ -11,7 +11,7 @@ author_profile: true
 
  **Weather Effects in Energy Seasonal Adjustment: An Application to France Energy Consumption.** Bruguet, M., Thomas, A. and Le Saout, R. (2025), [The Energy Journal, vol. 46, n°5](https://doi.org/10.1177/01956574251330845) [[working paper](https://mbruguet.github.io/files/ej_bruguet.pdf)]  [[slides](https://mbruguet.github.io/files/faee_bruguet.pdf)] 
  
-*Awarded : [best student paper 2024 by the FAEE](https://www.faee.fr/fr/51-prix-de-l-aee.html)*
+*Awarded : [Best student paper 2024 by the FAEE](https://www.faee.fr/fr/51-prix-de-l-aee.html)*
 
 *Presented at : ICEEF 2024, IAAE 2024, ISF 2024, JMS 2025, FAEE Doctoral Student Workshop 2024*
 
@@ -20,11 +20,14 @@ criteria for defining the base temperature, the reliance solely on temperature a
 
 # Working Paper  
 **When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2026) 
->*A central question for policymakers is whether communication can serve as an effective policy instrument. This paper examines France’s 2022 energy crisis, when reduced nuclear availability and surging prices prompted the government to launch one of Europe’s largest conservation campaigns. Using more than 12,000 official communications, narrative-specific attention indices from Google searches, and tariff-disaggregated electricity data, the analysis examines the process by which communication leads to attention and subsequently to change in demand. The effectiveness of communication is determined by message framing and household flexibility: conservation appeals gain traction only when embedded within crisis narratives, and translates into consumption reductions exclusively among households possessing actionable adjustment capacity.*
+
+*Presented at :  IAEE 2025, FAERE 2025, AICC 2025, BEHAVE 2025, YEEES 2025, PPSEE 2025, IPWSD 2026, Sustainable Development Colloquium SIPA 2026, AMSE Big Data and Econometrics Seminar 2025, LEDa PhD Seminar 2024*
+
+>*A central question for policymakers is whether communication can serve as an effective policy instrument. This paper examines France's 2022 energy crisis, when reduced nuclear availability and surging prices prompted the government to launch one of Europe's largest conservation campaigns. Using more than 12,000 official communications, narrative-specific attention indices from Google searches, and tariff-disaggregated electricity data, the analysis examines the process by which communication leads to attention and subsequently to change in demand. The effectiveness of communication is determined by message framing and household flexibility: conservation appeals gain traction only when embedded within crisis narratives, and translate into consumption reductions exclusively among households possessing actionable adjustment capacity.*
 
 # Research in Progress
 
-**Effects of Adopting a Heat-Pump on Actual Residential Energy Consumption** Bruguet, M. and Baba-Moussa, W. (2025)
+**Subsidising Electrification: Causal Effects of Heat Pump Adoption on Household Energy Demand** Bruguet, M. and Baba-Moussa, W. (2026)
 
 **Is there a rebound effect ? The Impact of Heat Pumps on Household Electricity Demand in France.** Bruguet, M., Civel, E. and Creti A. (2025) [*Shortlisted for best student paper 2025 by the FAEE*]
 
