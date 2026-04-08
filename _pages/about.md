@@ -17,7 +17,7 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 
 # NEWS 
 **Spring 2026** 
->I'm thrilled to be spending the spring semester as a visiting PhD student at Columbia SIPA's [Center for Environmental Economics and Policy](https://ceep.columbia.edu/), hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/).
+>I'm thrilled to be spending the spring semester as a visiting PhD student at Columbia SIPA [Center for Environmental Economics and Policy](https://ceep.columbia.edu/), hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/).
 
 **Spring 2027** 
 >I'm pleased to announce that I will be joining the [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi) at the University of Copenhagen as a postdoctoral researcher, working with Professor [Christina Gravert](https://christinagravert.com/).
