@@ -13,9 +13,9 @@ author_profile: true
  
 *Awarded : [Best student paper 2024 by the FAEE](https://www.faee.fr/fr/51-prix-de-l-aee.html)*
 
-*Presented at conferences: ICEEF 2024, IAAE 2024, ISF 2024, JMS 2025*
+*Conferences presentation: ICEEF 2024, IAAE 2024, ISF 2024, JMS 2025*
 
-*Presented at workshops: FAEE Doctoral Student Workshop 2024*
+*Workshops presentation: FAEE Doctoral Student Workshop 2024*
 
 >*This paper addresses the challenge of adjusting energy consumption data for weather variations by introducing a novel General Weather Indicator (GWI). The GWI combines multiple weather variables, including temperature, wind, sunlight, rain, and cloudiness, using a novel econometric approach that applies K-means for threshold identification and LASSO for variable selection. Through an empirical analysis of sectoral, electricity and natural gas consumption in France, we demonstrate that the GWI outperforms the standard HDD approach by addressing three main concerns: the lack of statistical
 criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
@@ -23,9 +23,9 @@ criteria for defining the base temperature, the reliance solely on temperature a
 # Working Paper  
 **When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2026) 
 
-*Presented at conferences: IPWSD 2026, IAEE 2025, FAERE 2025, AICC 2025, BEHAVE 2025*
+*Conferences presentation: IPWSD 2026, IAEE 2025, FAERE 2025, AICC 2025, BEHAVE 2025*
 
-*Presented at workshops: Sustainable Development Colloquium SIPA 2026, AMSE Big Data and Econometrics Seminar 2025, YEEES 2025, PPSEE 2025, LEDa PhD Seminar 2024*
+*Workshops presentation: Sustainable Development Colloquium SIPA 2026, AMSE Big Data and Econometrics Seminar 2025, YEEES 2025, PPSEE 2025, LEDa PhD Seminar 2024*
 
 >*A central question for policymakers is whether communication can serve as an effective policy instrument. This paper examines France's 2022 energy crisis, when reduced nuclear availability and surging prices prompted the government to launch one of Europe's largest conservation campaigns. Using more than 12,000 official communications, narrative-specific attention indices from Google searches, and tariff-disaggregated electricity data, the analysis examines the process by which communication leads to attention and subsequently to change in demand. The effectiveness of communication is determined by message framing and household flexibility: conservation appeals gain traction only when embedded within crisis narratives, and translate into consumption reductions exclusively among households possessing actionable adjustment capacity.*
 
