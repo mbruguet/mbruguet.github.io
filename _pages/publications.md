@@ -14,6 +14,7 @@ author_profile: true
 *Awarded : [Best student paper 2024 by the FAEE](https://www.faee.fr/fr/51-prix-de-l-aee.html)*
 
 *Presented at conferences: ICEEF 2024, IAAE 2024, ISF 2024, JMS 2025*
+
 *Presented at workshops: FAEE Doctoral Student Workshop 2024*
 
 >*This paper addresses the challenge of adjusting energy consumption data for weather variations by introducing a novel General Weather Indicator (GWI). The GWI combines multiple weather variables, including temperature, wind, sunlight, rain, and cloudiness, using a novel econometric approach that applies K-means for threshold identification and LASSO for variable selection. Through an empirical analysis of sectoral, electricity and natural gas consumption in France, we demonstrate that the GWI outperforms the standard HDD approach by addressing three main concerns: the lack of statistical
