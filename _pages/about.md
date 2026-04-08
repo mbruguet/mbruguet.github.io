@@ -15,7 +15,7 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 
 
 
-# News 
+## News 
 **Spring 2026** 
 >I'm thrilled to be spending the spring semester as a visiting PhD student at Columbia SIPA [Center for Environmental Economics and Policy](https://ceep.columbia.edu/), hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/).
 
