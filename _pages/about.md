@@ -14,9 +14,12 @@ My research focuses on demand-side solutions for the energy transition, with par
 I also hold a Master’s degree in econometrics from [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/fr) and remain passionate about applying econometrics and machine learning,  which allows me to explore complex data in innovative ways regarding environmental challenges. 
 
 
-# NEWS 
 
-I am attending the [Center for Environmental Economics and Policy](https://ceep.columbia.edu/) at [Columbia SIPA](https://www.sipa.columbia.edu/) as a visiting PhD student during the spring semester of 2026, hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/).
+# NEWS 
+**Spring 2026 – New York City:** I'm thrilled to be spending the spring semester as a visiting PhD student at Columbia SIPA's [Center for Environmental Economics and Policy](https://ceep.columbia.edu/), hosted by Professor [Robert D. Metcalfe](https://www.rmetcalfe.net/).
+
+**Starting Spring 2027 – Copenhagen:** I will join the [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi) at the University of Copenhagen as a postdoctoral researcher, working with Professor [Christina Gravert](https://christinagravert.com/).
+
 
 ## Next talk
 
