@@ -22,7 +22,7 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 **Spring 2027** 
 >I'm pleased to announce that I will be joining the [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi) at the University of Copenhagen as a postdoctoral researcher, working with Professor [Christina Gravert](https://christinagravert.com/).
 
----
+
 ## Next talk
 
 * 06-2026 -  **74th Congress of the French Economic Association**\
