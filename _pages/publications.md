@@ -31,13 +31,16 @@ criteria for defining the base temperature, the reliance solely on temperature a
 
 # Research in Progress
 
-**Subsidising Electrification: Causal Effects of Heat Pump Adoption on Household Energy Demand** //
+**Subsidising Electrification: Causal Effects of Heat Pump Adoption on Household Energy Demand** 
+
 Baba-Moussa, W. and Bruguet, M. (2026)
 
 **Revisiting an Economical Project: Evidence on Daylight Saving Time and Electricity Use** 
+
 Bruguet, M. and Creti A. (2026)
 
 **Is there a rebound effect ? The Impact of Heat Pumps on Household Electricity Demand in France.** 
+
 Bruguet, M., Civel, E. and Creti A. (2025) [*Shortlisted for best student paper 2025 by the FAEE*]
 
 ---
