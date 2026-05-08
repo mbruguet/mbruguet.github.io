@@ -21,7 +21,9 @@ author_profile: true
 criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
 
 # Working Paper  
-**When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2026) [[working paper](https://mbruguet.github.io/files/BRUGUET_jmp.pdf)] [[slides](https://mbruguet.github.io/files/afse_bruguet.pdf)] 
+**When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2026)
+
+[[working paper](https://mbruguet.github.io/files/BRUGUET_jmp.pdf)] [[slides](https://mbruguet.github.io/files/afse_bruguet.pdf)] 
 
 *Conferences presentation: IAEE 2025, FAERE 2025, AICC 2025, BEHAVE 2025*
 
