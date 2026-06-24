@@ -24,10 +24,5 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 
 
 ## Next talk
-
-* 06-2026 -  **74th Congress of the French Economic Association**\
-  [LEMNA, Nantes, France](https://www.afse.fr/fr/news/afse-2026-nantes-universite-2479)
-* 06-2026 -  **Seminar Investigating low Demand Economy for CLIMate transition**\
-  [CIRED, Nogent-sur-Marne, France](https://www.centre-cired.fr/groupe-de-recherche-declim/)
 * 07-2026 - **7th World Congress of Environmental and Resource Economists**\
   [NOVA SBE, Carcavelos, Portugal](https://wcere2026.org/)
