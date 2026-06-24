@@ -24,9 +24,9 @@ criteria for defining the base temperature, the reliance solely on temperature a
 **When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2026)
 [[working paper](https://mbruguet.github.io/files/BRUGUET_jmp.pdf)] [[slides](https://mbruguet.github.io/files/afse_bruguet.pdf)] 
 
-*Conferences presentation: IAEE 2025, FAERE 2025, AICC 2025, BEHAVE 2025*
+*Conferences presentation:  AFSE 2026, IAEE 2025, FAERE 2025, AICC 2025, BEHAVE 2025*
 
-*Workshops presentation: IPWSD 2026, Sustainable Development Colloquium SIPA 2026, AMSE Big Data and Econometrics Seminar 2025, YEEES 2025, PPSEE 2025, LEDa PhD Seminar 2024*
+*Workshops presentation: LoDEEP 2026, IPWSD 2026, Sustainable Development Colloquium SIPA 2026, AMSE Big Data and Econometrics Seminar 2025, YEEES 2025, PPSEE 2025, LEDa PhD Seminar 2024*
 
 >*A fundamental question for policymakers is whether communication can serve as an effective policy instrument. This paper examines France's energy crisis of 2022, during which surging prices prompted one of Europe's largest conservation campaigns. The present study investigates the relationship between official messaging, public attention and electricity demand. The analysis of the causal chain reveals that the effectiveness of communication depends on two factors: message framing and household flexibility. The findings indicate that information campaigns have the capacity to augment existing demand-side flexibility rather than creating it, thereby constraining their effectiveness as a standalone policy instrument.*
 
