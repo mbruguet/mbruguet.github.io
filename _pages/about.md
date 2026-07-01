@@ -26,3 +26,6 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 ## Next talk
 * 07-2026 - **7th World Congress of Environmental and Resource Economists**\
   [NOVA SBE, Carcavelos, Portugal](https://wcere2026.org/)
+* 09-2026 - **Working Paper Days**\
+  [LGI, CentraleSupélec, France]
+ * 09-2026 - **EdF R&D PhD seminar**
