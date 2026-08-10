@@ -24,7 +24,7 @@ criteria for defining the base temperature, the reliance solely on temperature a
 **When Words Save Watts: Government Communication and Household Electricity Use.** Bruguet, M. (2026)
 [[working paper](https://mbruguet.github.io/files/BRUGUET_jmp.pdf)] [[slides](https://mbruguet.github.io/files/BRUGUET_WCERE.pdf)] 
 
-*Conferences presentation:  AFSE 2026, IAEE 2025, FAERE 2025, AICC 2025, BEHAVE 2025*
+*Conferences presentation:  WCERE 2026, AFSE 2026, IAEE 2025, FAERE 2025, AICC 2025, BEHAVE 2025*
 
 *Workshops presentation: LoDEEP 2026, IPWSD 2026, Sustainable Development Colloquium SIPA 2026, AMSE Big Data and Econometrics Seminar 2025, YEEES 2025, PPSEE 2025, LEDa PhD Seminar 2024*
 
