@@ -15,13 +15,9 @@ author_profile: true
 
 *Workshops presentation: FAEE Doctoral Student Workshop 2024*
 
+>*This paper addresses the challenge of adjusting energy consumption data for weather variations by introducing a novel General Weather Indicator (GWI). The GWI combines multiple weather variables, including temperature, wind, sunlight, rain, and cloudiness, using a novel econometric approach that applies K-means for threshold identification and LASSO for variable selection. Through an empirical analysis of sectoral, electricity and natural gas consumption in France, we demonstrate that the GWI outperforms the standard HDD approach by addressing three main concerns: the lack of statistical criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
 
-<details>
-<summary>Abstract</summary>
 
-*This paper addresses the challenge of adjusting energy consumption data for weather variations by introducing a novel General Weather Indicator (GWI). The GWI combines multiple weather variables, including temperature, wind, sunlight, rain, and cloudiness, using a novel econometric approach that applies K-means for threshold identification and LASSO for variable selection. Through an empirical analysis of sectoral, electricity and natural gas consumption in France, we demonstrate that the GWI outperforms the standard HDD approach by addressing three main concerns: the lack of statistical criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
-
-</details>
 
 
 
@@ -34,12 +30,10 @@ author_profile: true
 
 *Workshops presentation: LoDEEP 2026, IPWSD 2026, Sustainable Development Colloquium SIPA 2026, AMSE Big Data and Econometrics Seminar 2025, YEEES 2025, PPSEE 2025, LEDa PhD Seminar 2024*
 
-<details>
-<summary>Abstract</summary>
 
-*A fundamental question for policymakers is whether communication can serve as an effective policy instrument. This paper examines France's energy crisis of 2022, during which surging prices prompted one of Europe's largest conservation campaigns. The present study investigates the relationship between official messaging, public attention and electricity demand. The analysis of the causal chain reveals that the effectiveness of communication depends on two factors: message framing and household flexibility. The findings indicate that information campaigns have the capacity to augment existing demand-side flexibility rather than creating it, thereby constraining their effectiveness as a standalone policy instrument.*
+>*A fundamental question for policymakers is whether communication can serve as an effective policy instrument. This paper examines France's energy crisis of 2022, during which surging prices prompted one of Europe's largest conservation campaigns. The present study investigates the relationship between official messaging, public attention and electricity demand. The analysis of the causal chain reveals that the effectiveness of communication depends on two factors: message framing and household flexibility. The findings indicate that information campaigns have the capacity to augment existing demand-side flexibility rather than creating it, thereby constraining their effectiveness as a standalone policy instrument.*
 
-</details>
+
 
 
 
@@ -48,12 +42,8 @@ author_profile: true
 
 *Workshops presentation: Sustainable Development Colloquium SIPA 2026, LEDa PhD retreat 2026, EdF R&D PhD seminar 2026, CentraleSupélec Working Paper Days 2026, SDES internal seminar 2026*
 
-<details>
-<summary>Abstract</summary>
 
-*Policies aimed at promoting the adoption of heat pumps (HP) are central to the decarbonisation of the residential sector. However, the effects of these policies on energy consumption remain the subject of intense debate. We present an assessment of the impact of subsidized HP adoption on residential energy consumption in France and analyze the cost-effectiveness of these adoptions for households and society. Using a panel of households equipped with smart meters, we identify the effects of these adoptions using a dynamic difference-in-differences model. Our results reveal, with regard to the goal of reducing greenhouse gas emissions, that the effectiveness of HP depends more on the energy substitution they achieve than on the technology itself: replacing a gas-fired heating system avoids approximately twenty times more CO2 emissions than replacing an electric system. It follows that providing equal subsidies for configurations with varying decarbonization gradients constitutes a potential inefficient use of public funds.*
-
-</details>
+>*Policies aimed at promoting the adoption of heat pumps (HP) are central to the decarbonisation of the residential sector. However, the effects of these policies on energy consumption remain the subject of intense debate. We present an assessment of the impact of subsidized HP adoption on residential energy consumption in France and analyze the cost-effectiveness of these adoptions for households and society. Using a panel of households equipped with smart meters, we identify the effects of these adoptions using a dynamic difference-in-differences model. Our results reveal, with regard to the goal of reducing greenhouse gas emissions, that the effectiveness of HP depends more on the energy substitution they achieve than on the technology itself: replacing a gas-fired heating system avoids approximately twenty times more CO2 emissions than replacing an electric system. It follows that providing equal subsidies for configurations with varying decarbonization gradients constitutes a potential inefficient use of public funds.*
 
 
 
