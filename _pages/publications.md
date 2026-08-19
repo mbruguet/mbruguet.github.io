@@ -30,10 +30,13 @@ criteria for defining the base temperature, the reliance solely on temperature a
 
 >*A fundamental question for policymakers is whether communication can serve as an effective policy instrument. This paper examines France's energy crisis of 2022, during which surging prices prompted one of Europe's largest conservation campaigns. The present study investigates the relationship between official messaging, public attention and electricity demand. The analysis of the causal chain reveals that the effectiveness of communication depends on two factors: message framing and household flexibility. The findings indicate that information campaigns have the capacity to augment existing demand-side flexibility rather than creating it, thereby constraining their effectiveness as a standalone policy instrument.*
 
-# Research in Progress
-
-**Subsidising Electrification: Causal Effects of Heat Pump Adoption on Household Energy Consumption**    
+**Subsidising Electrification: Causal Effects of Heat Pump Adoption on Household Energy Consumption** [Working paper incoming]   
 Baba-Moussa, W. and Bruguet, M. (2026)
+*Workshops presentation: Sustainable Development Colloquium SIPA 2026, LEDa PhD retreat 2026, EdF R&D PhD seminar 2026, CentraleSupélec Working Paper Days September 2026, SDES internal seminar September 2026*
+
+>*Policies aimed at promoting the adoption of heat pumps (HP) are central to the decarbonisation of the residential sector. However, the effects of these policies on energy consumption remain the subject of intense debate. We present an assessment of the impact of subsidized HP adoption on residential energy consumption in France and analyze the cost-effectiveness of these adoptions for households and society. Using a panel of households equipped with smart meters, we identify the effects of these adoptions using a dynamic difference-in-differences model. Our results reveal, with regard to the goal of reducing greenhouse gas emissions, that the effectiveness of HP depends more on the energy substitution they achieve than on the technology itself: replacing a gas-fired heating system avoids approximately twenty times more CO$_2$ emissions than replacing an electric system. It follows that providing equal subsidies for configurations with varying decarbonization gradients constitutes a potential inefficient use of public funds.*
+
+# Research in Progress
 
 **Revisiting an Economical Project: Evidence on Daylight Saving Time and Electricity Use**     
 Bruguet, M. and Creti A. (2026)
