@@ -4,6 +4,36 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+.abstract-box {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 0.75em 1.2em;
+  margin: 0.8em 0 1.4em 0;
+  background-color: #f9f9f9;
+}
+
+.abstract-box summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #2a6496;
+  list-style: none;
+}
+
+.abstract-box summary::-webkit-details-marker {
+  display: none;
+}
+
+.abstract-box summary::after {
+  content: " ▾";
+}
+
+.abstract-box[open] summary::after {
+  content: " ▴";
+}
+
+.abstract-box details[open] summary {
+  margin-bottom: 0.6em;
+}
 
 # Peer-reviewed Publication
 
@@ -15,12 +45,14 @@ author_profile: true
 
 *Workshops presentation: FAEE Doctoral Student Workshop 2024*
 
+<div class="abstract-box">
 <details>
 <summary>Abstract</summary>
 
 *This paper addresses the challenge of adjusting energy consumption data for weather variations by introducing a novel General Weather Indicator (GWI). The GWI combines multiple weather variables, including temperature, wind, sunlight, rain, and cloudiness, using a novel econometric approach that applies K-means for threshold identification and LASSO for variable selection. Through an empirical analysis of sectoral, electricity and natural gas consumption in France, we demonstrate that the GWI outperforms the standard HDD approach by addressing three main concerns: the lack of statistical criteria for defining the base temperature, the reliance solely on temperature as the weather variable, and the assumption of a constant base temperature over time and space. Based on these results, we propose an analysis of the sectoral functional form and an estimation of weather elasticities for energy demand in France at both monthly and daily levels.*
 
 </details>
+</div>
 
 # Working Paper  
 
