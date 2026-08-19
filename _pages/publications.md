@@ -30,7 +30,7 @@ criteria for defining the base temperature, the reliance solely on temperature a
 
 >*A fundamental question for policymakers is whether communication can serve as an effective policy instrument. This paper examines France's energy crisis of 2022, during which surging prices prompted one of Europe's largest conservation campaigns. The present study investigates the relationship between official messaging, public attention and electricity demand. The analysis of the causal chain reveals that the effectiveness of communication depends on two factors: message framing and household flexibility. The findings indicate that information campaigns have the capacity to augment existing demand-side flexibility rather than creating it, thereby constraining their effectiveness as a standalone policy instrument.*
 
-**Subsidising Electrification: Causal Effects of Heat Pump Adoption on Household Energy Consumption** Baba-Moussa, W. and Bruguet, M. (2026) 
+**Subsidising Electrification: Causal Effects of Heat Pump Adoption on Household Energy Consumption.** Baba-Moussa, W. and Bruguet, M. (2026) 
 [Working paper incoming]   
 
 *Workshops presentation: Sustainable Development Colloquium SIPA 2026, LEDa PhD retreat 2026, EdF R&D PhD seminar 2026, CentraleSupélec Working Paper Days September 2026, SDES internal seminar September 2026*
