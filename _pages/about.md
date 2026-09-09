@@ -24,6 +24,4 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 
 
 ## Next talk
-* 09-2026 - **Working Paper Days**\
-  [LGI, CentraleSupélec, France](https://www.lgi.centralesupelec.fr/)
 * 09-2026 - **EdF R&D PhD seminar**
