@@ -17,7 +17,7 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 
 ## News 
 **December 1st 2026** 
->I'm pleased to announce that I will be defending my PhD thesis at Paris Dauphine Université, December 1st 2026 at 3p.m. If you would like to attend the defence, please contact me at marie.bruguet@dauphine.eu
+>I'm pleased to announce that I will be defending my PhD thesis at Paris Dauphine Université, December 1st 2026 at 3p.m. If you would like to attend the defence, please contact me at marie.bruguet[at]dauphine.eu
 
 **Spring 2027** 
 >I'm pleased to announce that I will be joining the [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi) at the University of Copenhagen as a postdoctoral researcher, working with Professor [Christina Gravert](https://christinagravert.com/).
