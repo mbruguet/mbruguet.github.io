@@ -16,8 +16,6 @@ My research focuses on demand-side solutions for the energy transition, with par
 I also hold a Master’s degree in econometrics from [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/fr) and remain passionate about applying econometrics and machine learning,  which allows me to explore complex data in innovative ways regarding environmental challenges. 
 
 ## News 
-**December 1st 2026** 
->I'm pleased to announce that I will be defending my PhD thesis at Paris Dauphine Université, December 1st 2026 at 3p.m. If you would like to attend the defence, please contact me at marie.bruguet[at]dauphine.eu
 
 **Spring 2027** 
 >I'm pleased to announce that I will be joining the [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi) at the University of Copenhagen as a postdoctoral researcher, working with Professor [Christina Gravert](https://christinagravert.com/).
