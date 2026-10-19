@@ -52,5 +52,5 @@ author_profile: true
 **Revisiting an Economical Project: Evidence on Daylight Saving Time and Electricity Use**     
 Bruguet, M. and Creti A. (2026)
 
-**Financing Beliefs as a Barrier to Home Energy Renovation**
+**Financing Beliefs as a Barrier to Home Energy Renovation**     
 Jacobsen, A., Riegels, D., Bruguet, M. and Gravert, C. (2026), (AEARCTR-0019898)
