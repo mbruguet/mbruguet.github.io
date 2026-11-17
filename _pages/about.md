@@ -23,4 +23,4 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 
 
 ## Next talk
-
+- December 1st, [Conférence annuelle FAEE : Énergie et résilience](https://www.faee.fr/files/file/aee/FAEE_Conference_2026_Programme.pdf)
