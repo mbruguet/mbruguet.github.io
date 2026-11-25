@@ -21,10 +21,10 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 >I'm pleased to announce that I will be joining the [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi) at the University of Copenhagen as a postdoctoral researcher, working with Professor [Christina Gravert](https://christinagravert.com/).
 
 **Spring 2026** 
-> I visited SIPA envrionmental departement at Columbia University hosted by [Dr. Robert D. Metcalfe](https://rmetcalfe.net/).
+> I visited SIPA environmental department at Columbia University, hosted by [Dr. Robert D. Metcalfe](https://rmetcalfe.net/).
 
 **Fall 2024**
-> I received the Marcel Boiteux Prize 2024 for the best doctoral work, French Association of Energy Economists (FAEE).
+> I received the Marcel Boiteux Prize 2024 from the FAEE for best doctoral paper.
 
 
 
