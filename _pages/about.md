@@ -24,7 +24,7 @@ I also hold a Master’s degree in econometrics from [Aix-Marseille School of Ec
 > I visited SIPA environmental department at Columbia University, hosted by [Dr. Robert D. Metcalfe](https://rmetcalfe.net/).
 
 **Fall 2024**
-> I received the Marcel Boiteux Prize 2024 from the FAEE for best doctoral paper.
+> I received the [Marcel Boiteux Prize 2024](https://www.faee.fr/fr/51-prix-de-l-aee.html#/awards/2024) from the FAEE for best doctoral paper.
 
 
 
