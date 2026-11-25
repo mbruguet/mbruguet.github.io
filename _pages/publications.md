@@ -38,7 +38,7 @@ author_profile: true
 **Subsidising Electrification: Causal Effects of Heat Pump Adoption on Household Energy Consumption.** Baba-Moussa, W. and Bruguet, M. (2026) 
 [Working paper incoming]   
 
-*Workshops presentation: Sustainable Development Colloquium SIPA 2026, LEDa PhD retreat 2026, EdF R&D PhD seminar 2026, CentraleSupélec Working Paper Days 2026, SDES internal seminar 2026*
+*Workshops presentation: Sustainable Development Colloquium SIPA 2026, LEDa PhD retreat 2026, EdF R&D PhD seminar 2026, CentraleSupélec Working Paper Days 2026, SDES internal seminar 2026, FAEE PhD workshop 2026*
 
 
 >*Heat pump (HP) subsidies are a cornerstone of residential decarbonisation policy, but they are largely allocated by technology alone, ignoring heterogeneity in the counterfactual heating system. We combine smart-meter consumption data for 48,000 owner-occupied single-family homes in France with administrative subsidy records and estimate the effects of 1,035 subsidised adoptions using a staggered difference-in-differences design. Abatement is driven by the adoption margin rather than the technology: replacing a gas boiler with an air-water heat pump reduces emissions by 2.1 tCO2 per year, roughly fourteen times the abatement achieved when the same unit displaces electric heating. Integrating private, social, and fiscal perspectives, we show that only air-water units replacing gas boilers deliver positive net private and social returns and a marginal value of public funds exceeding one, with returns increasing in pre-adoption energy intensity. Therefore, targeting subsidies on the displaced fuel and baseline consumption would raise the efficiency of public spending.*
