@@ -9,18 +9,26 @@ redirect_from:
 ---
 
 
-I am a third-year PhD candidate in Economics, working under the supervision of [Dr. Anna Creti](https://cgemp.dauphine.fr/fileadmin/mediatheque/centres/cgemp/CV/CV_2022/CV_Anna_Creti.pdf) and [Dr. Arthur Thomas](https://arthurthomaseconometrics.github.io/). I am affiliated with the [Climate Economics Chair](https://www.chaireeconomieduclimat.org/en/thesis/measuring-and-evaluating-sufficiency-and-efficiency-in-french-residential-energy-consumption-marie-bruguet/), [Université Paris-Dauphine – LEDa](https://leda.dauphine.fr/) and  the [Ministry of Ecological Transition – Studies and Statistics Department](https://www.statistiques.developpement-durable.gouv.fr/english-contents). From February to May 2026, I visited SIPA envrionmental departement at Columbia University hosted by [Dr. Robert D. Metcalfe](https://rmetcalfe.net/).
+I am a third-year PhD candidate in Economics, working under the supervision of [Dr. Anna Creti](https://cgemp.dauphine.fr/fileadmin/mediatheque/centres/cgemp/CV/CV_2022/CV_Anna_Creti.pdf) and [Dr. Arthur Thomas](https://arthurthomaseconometrics.github.io/). I am affiliated with the [Climate Economics Chair](https://www.chaireeconomieduclimat.org/en/thesis/measuring-and-evaluating-sufficiency-and-efficiency-in-french-residential-energy-consumption-marie-bruguet/), [Université Paris-Dauphine – LEDa](https://leda.dauphine.fr/) and  the [Ministry of Ecological Transition – Studies and Statistics Department](https://www.statistiques.developpement-durable.gouv.fr/english-contents).
 
 My research focuses on demand-side solutions for the energy transition, with particular attention to incentives for energy conservation. In my PhD thesis, I study how policies can encourage households to reduce energy use as a means of cutting greenhouse gas emissions. More broadly, I aim to provide evidence-based insights to support the design of fairer and more effective energy conservation policies. 
 
 I also hold a Master’s degree in econometrics from [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/fr) and remain passionate about applying econometrics and machine learning,  which allows me to explore complex data in innovative ways regarding environmental challenges. 
+
+## Next talk
+December 1st, [Conférence annuelle FAEE : Énergie et résilience](https://www.faee.fr/files/file/aee/FAEE_Conference_2026_Programme.pdf)
+
 
 ## News 
 
 **Spring 2027** 
 >I'm pleased to announce that I will be joining the [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi) at the University of Copenhagen as a postdoctoral researcher, working with Professor [Christina Gravert](https://christinagravert.com/).
 
+**Spring 2026** 
+> I visited SIPA envrionmental departement at Columbia University hosted by [Dr. Robert D. Metcalfe](https://rmetcalfe.net/).
+
+**Fall 2024**
+> I received the Marcel Boiteux Prize 2024 for the best doctoral work, French Association of Energy Economists (FAEE).
 
 
-## Next talk
-- December 1st, [Conférence annuelle FAEE : Énergie et résilience](https://www.faee.fr/files/file/aee/FAEE_Conference_2026_Programme.pdf)
+
