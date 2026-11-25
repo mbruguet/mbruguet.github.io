@@ -15,10 +15,6 @@ My research focuses on demand-side solutions for the energy transition, with par
 
 I also hold a Master’s degree in econometrics from [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/fr) and remain passionate about applying econometrics and machine learning,  which allows me to explore complex data in innovative ways regarding environmental challenges. 
 
-## Next talk
-December 1st, [Conférence annuelle FAEE : Énergie et résilience](https://www.faee.fr/files/file/aee/FAEE_Conference_2026_Programme.pdf)
-
-
 ## News 
 
 **Spring 2027** 
